@@ -57,18 +57,6 @@ pip install -r requirements.txt
 cp config_example.txt .env
 ```
 
-4. Fill in the `.env` file with your credentials:
-```
-TELEGRAM_BOT_TOKEN=your_telegram_bot_token_here
-GROUP_CHAT_ID=-4647978421
-OPENAI_API_KEY=your_openai_api_key_here
-PMM_ASSISTANT_ID=your_pmm_assistant_id_here
-FOOD_ASSISTANT_ID=your_food_assistant_id_here
-SUPPLY_ASSISTANT_ID=your_supply_assistant_id_here
-MONOBANK_API_TOKEN=your_monobank_api_token_here
-MONOBANK_CARD_NUMBER=4441114419905094
-MONOBANK_CHECK_INTERVAL=60
-```
 
 ## Configuration
 
